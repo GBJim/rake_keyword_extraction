@@ -1,2 +1,2 @@
-Just run the keyWordEtraction.py, simple and eas
-Python3 compatible
+Just run the keyWordEtraction.py, simple and easy\n
+It's Python3 compatible\n
